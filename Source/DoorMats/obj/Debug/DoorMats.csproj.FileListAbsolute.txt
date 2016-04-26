@@ -1,0 +1,5 @@
+\\MAIN-RIG\LocalShare\RimWorld1123WinDev\Mods\DoorMats\Source\DoorMats\bin\Debug\DoorMats.dll
+\\MAIN-RIG\LocalShare\RimWorld1123WinDev\Mods\DoorMats\Source\DoorMats\bin\Debug\DoorMats.pdb
+\\MAIN-RIG\LocalShare\RimWorld1123WinDev\Mods\DoorMats\Source\DoorMats\obj\Debug\DoorMats.csprojResolveAssemblyReference.cache
+\\MAIN-RIG\LocalShare\RimWorld1123WinDev\Mods\DoorMats\Source\DoorMats\obj\Debug\DoorMats.dll
+\\MAIN-RIG\LocalShare\RimWorld1123WinDev\Mods\DoorMats\Source\DoorMats\obj\Debug\DoorMats.pdb
