@@ -24,7 +24,7 @@
     <statBases>
       <Flammability>1.0</Flammability>
       <MaxHitPoints>50</MaxHitPoints>
-      <WorkToMake>120</WorkToMake>
+      <WorkToBuild>120</WorkToBuild>
       <Cleanliness>3</Cleanliness>
       <Beauty>5</Beauty>
     </statBases>
@@ -77,7 +77,7 @@
     <statBases>
       <Flammability>1.0</Flammability>
       <MaxHitPoints>80</MaxHitPoints>
-      <WorkToMake>240</WorkToMake>
+      <WorkToBuild>240</WorkToBuild>
       <Cleanliness>6</Cleanliness>
       <Beauty>10</Beauty>
     </statBases>

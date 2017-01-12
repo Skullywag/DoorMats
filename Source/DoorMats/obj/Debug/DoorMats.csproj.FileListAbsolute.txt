@@ -3,3 +3,34 @@
 \\MAIN-RIG\LocalShare\RimWorld1123WinDev\Mods\DoorMats\Source\DoorMats\obj\Debug\DoorMats.csprojResolveAssemblyReference.cache
 \\MAIN-RIG\LocalShare\RimWorld1123WinDev\Mods\DoorMats\Source\DoorMats\obj\Debug\DoorMats.dll
 \\MAIN-RIG\LocalShare\RimWorld1123WinDev\Mods\DoorMats\Source\DoorMats\obj\Debug\DoorMats.pdb
+C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\DoorMats\Source\DoorMats\bin\Debug\DoorMats.dll
+C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\DoorMats\Source\DoorMats\bin\Debug\DoorMats.pdb
+C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\DoorMats\Source\DoorMats\bin\Debug\Assembly-CSharp.dll
+C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\DoorMats\Source\DoorMats\bin\Debug\UnityEngine.dll
+C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\DoorMats\Source\DoorMats\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\DoorMats\Source\DoorMats\bin\Debug\NAudio.dll
+C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\DoorMats\Source\DoorMats\bin\Debug\NVorbis.dll
+C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\DoorMats\Source\DoorMats\obj\Debug\DoorMats.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\DoorMats\Source\DoorMats\obj\Debug\DoorMats.dll
+C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\DoorMats\Source\DoorMats\obj\Debug\DoorMats.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\DoorMats\Source\DoorMats\bin\Debug\DoorMats.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\DoorMats\Source\DoorMats\bin\Debug\DoorMats.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\DoorMats\Source\DoorMats\bin\Debug\Assembly-CSharp.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\DoorMats\Source\DoorMats\bin\Debug\UnityEngine.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\DoorMats\Source\DoorMats\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\DoorMats\Source\DoorMats\bin\Debug\NAudio.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\DoorMats\Source\DoorMats\bin\Debug\NVorbis.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\DoorMats\Source\DoorMats\obj\Debug\DoorMats.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\DoorMats\Source\DoorMats\obj\Debug\DoorMats.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\DoorMats\Source\DoorMats\obj\Debug\DoorMats.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DoorMats-A16\Source\DoorMats\bin\Debug\DoorMats.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DoorMats-A16\Source\DoorMats\bin\Debug\DoorMats.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DoorMats-A16\Source\DoorMats\bin\Debug\Assembly-CSharp.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DoorMats-A16\Source\DoorMats\bin\Debug\UnityEngine.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DoorMats-A16\Source\DoorMats\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DoorMats-A16\Source\DoorMats\bin\Debug\NAudio.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DoorMats-A16\Source\DoorMats\bin\Debug\NVorbis.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DoorMats-A16\Source\DoorMats\bin\Debug\UnityEngine.xml
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DoorMats-A16\Source\DoorMats\obj\Debug\DoorMats.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DoorMats-A16\Source\DoorMats\obj\Debug\DoorMats.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DoorMats-A16\Source\DoorMats\obj\Debug\DoorMats.pdb

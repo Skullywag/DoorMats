@@ -2,6 +2,6 @@
 <ModMetaData>
     <name>DoorMats</name>
     <author>Latta - Skullywag</author>
-    <targetVersion>Alpha 13</targetVersion>
+    <targetVersion>0.16.1375</targetVersion>
     <description>Allows doormats to be made which make filth deposit on them when walked over.</description>
 </ModMetaData>

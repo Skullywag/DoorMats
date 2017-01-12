@@ -14,9 +14,9 @@ namespace DoorMats
             base.Tick();
             foreach (IntVec3 current in GenAdj.OccupiedRect(this))
             {
-                if (!GenGrid.Impassable(current))
+                if (!GenGrid.Impassable(current, Map))
                 {
-                    Pawn pawn = Find.Map.thingGrid.ThingAt<Pawn>(current);
+                    Pawn pawn = Map.thingGrid.ThingAt<Pawn>(current);
                     if (pawn != null)
                     {
                         pawn.filth.GetType().GetMethod("TryDropFilth", BindingFlags.Instance | BindingFlags.NonPublic).Invoke(pawn.filth, null);
